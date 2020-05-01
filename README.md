@@ -5,6 +5,9 @@
 composer i
 ```
 ```
+yarn i
+```
+```
 symfony server:start 
 ```
 ```
