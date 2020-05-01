@@ -1,7 +1,7 @@
 # Instrucciones para correr servicios en un entorno de desarrollo:
 
-# Comandos:
+## Comandos:
  
-# composer i
-# symfony server:start 
-# yarn encore dev --watch
+### composer i
+### symfony server:start 
+### yarn encore dev --watch
