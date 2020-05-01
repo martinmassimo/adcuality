@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body {
+    display: grid;
+    background-color: lightgray;
+    font-family: Roboto, sans-serif;
+}
+#byMonthDonut {
+  max-width: 400px;
+  margin: 35px auto;
+}
+#byDayDonut {
+    max-width: 400px;
+    margin: 35px auto;
+  }
+  #byMonthBar {
+    max-width: 400px;
+    margin: 35px auto;
+  }
+  #byDayBar {
+      max-width: 400px;
+      margin: 35px auto;
+    }
+  
